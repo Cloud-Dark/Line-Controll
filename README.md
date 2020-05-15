@@ -1,3 +1,4 @@
+
 ### LineControl Editor
 LineControl allows you to add a beautiful, responsive and fast online Text Editor to your web application/site. LineControl is designed to work with Twitter Bootstrap and as a Jquery Plugin. To add the plugin to your project, just include the JS and CSS files to your HTML template:
 ```
@@ -47,15 +48,14 @@ editor('createMenuItem', {"text": "TouchGlasses", //Text replaces icon if its no
  });
 ```
 
-Read more about extending LineControl [here](https://github.com/suyati/line-control/wiki)
-
 ### Authors and Contributors
-LineControl is developed by [Suyati Technologies](http://suyati.com/products).
+LineControl is Re-Developed by [Cloud Dark](http://clouddark.xyz/).
 It is written and maintained by their Open Source Development Team:
 * Krishnanunni P N (@kpnunni)
 * Arun V B (@abalakrishnan)
 * Naveen Bos TM (@naveenbos)
 * Sujith Panikkam (@spanikkam)
+* Suyati  (@suyati)
 
 ### Support or Contact
-Have Suggestions? Want to give us something to do? Contact us at : **lcsupport@suyati.com**
+Have Suggestions? Want to give us something to do? Contact us at : **[syahdanfilsafan@58@gmail.com](mailto:syahdanfilsafan58@gmail.com)**
